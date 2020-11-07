@@ -5,5 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>pom.xml</name>
-  <description>test maven build project</description>
+  <description>test maven build project 1</description>
 </project>
